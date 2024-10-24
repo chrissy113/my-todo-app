@@ -1,0 +1,12 @@
+     {
+         "todos": [
+             {
+                 "text": "Learn JavaScript",
+                 "completed": false
+             },
+             {
+                 "text": "Build a project",
+                 "completed": false
+             }
+         ]
+     }
