@@ -1,12 +1,22 @@
-     {
-         "todos": [
-             {
-                 "text": "Learn JavaScript",
-                 "completed": false
-             },
-             {
-                 "text": "Build a project",
-                 "completed": false
-             }
-         ]
-     }
+{
+    "todos": [
+        {
+            "text": "Learn JavaScript",
+            "completed": false
+        },
+        {
+            "text": "Build a project",
+            "completed": false
+        }
+    ],
+    "notes": [
+        {
+            "title": "First Note",
+            "content": "This is the content of the first note."
+        },
+        {
+            "title": "Second Note",
+            "content": "This is the content of the second note."
+        }
+    ]
+}
